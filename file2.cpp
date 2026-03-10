@@ -31,4 +31,6 @@ string status_lulus(float r){
         //    status = "lolos";
         //else
           // status = "gagal";
+        rerata = rata_rata(nilBI,nilMT);
+        //status = status_lulus(rerata);  
     }
