@@ -25,4 +25,10 @@ string status_lulus(float r){
         cin >> nilBI;
         cout <<"masukkan nilai matematika = ";
         cin >> nilMT;
+        
+        //rerata = (niBI+nilMT)/2;
+        //if (rerata >= 60)
+        //    status = "lolos";
+        //else
+          // status = "gagal";
     }
